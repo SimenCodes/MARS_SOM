@@ -3,10 +3,10 @@
 <h1 align="center">MARS_SOM README</h1>
 
 ## INSTRUCTIONS
-- Follow My Magisk Guides first before installing the MARS_SOM
 <a href="https://forum.xda-developers.com/sony-xperia-5-ii/how-to/guide-magisk-twrp-recovery-t4177209#post83732927">
-  -Thread on XDA-
+- Follow My Magisk Guides first before installing the MARS_SOM
 </a>
+
 - **Make sure the latest Magisk Manager is installed
 - **Extract the MARS_SOM-master.zip and open /MARS_SOM/MARS_SOM
 - **Mark the whole Content of the second MARS_SOM Folder and create a Zip File
