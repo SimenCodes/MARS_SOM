@@ -15,8 +15,8 @@
 - Head over to the Magisk Manager Modules and download/install Magisk Hide Props
 - Download Termux from the Play Store, open it and type in "su" to grant Root Permissions
 - Type in now "props" and select the first option "1"
-- Pick a Fingerprint from the List, select the Google Pixel 4 XL one
+- Pick a Fingerprint from the List "f" and select the Google Pixel 4 XL one "7", "23", "1"
 - Go back to the Main Menu and select Device Simulation "3"
-- Enable the Device Simulation "1", followed by selecting all Props "a" and enable them "s"
+- Enable the Device Simulation "s", followed by selecting all Props "a" and enable them "1"
 - Reboot Your Device now, go to the Play Store again and update all Apps
 - Done. You have enabled all MARS Features now and You will pass SafetyNet Checks completely
