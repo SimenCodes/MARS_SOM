@@ -1,10 +1,10 @@
-![](MARS_SOM/mars.png)
+![Cover](https://github.com/Miustone/MARS_SOM/blob/master/mars.png)
 
 <h1 align="center">MARS_SOM README</h1>
 
 ## INSTRUCTIONS
 <a href="https://forum.xda-developers.com/sony-xperia-5-ii/how-to/guide-magisk-twrp-recovery-t4177209#post83732927">
- - Follow My Magisk Guides first before installing the MARS_SOM
+- **Follow My Magisk Guides first before installing the MARS_SOM
 </a>
 
 - Make sure the latest Magisk Manager is installed
