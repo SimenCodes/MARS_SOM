@@ -31,6 +31,7 @@ debug.qualcomm.sns.daemon=i
 debug.qualcomm.sns.hal=i
 debug.qualcomm.sns.libsensor1=e
 debug.sf.disable_backpressure=1
+debug.sf.nobootanimation=1
 debug.sf.dump.enable=true
 debug.sf.dump.external=true
 debug.sf.dump.primary=true
