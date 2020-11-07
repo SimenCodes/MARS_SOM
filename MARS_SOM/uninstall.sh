@@ -1,7 +1,7 @@
-#MARS
+#MARS_SOM
 
-remove_mars_dir() {
-  rm -rf /data/adb/modules/MARS
+remove_marssom_dir() {
+  rm -rf /data/adb/modules/MARS_SOM
 }
 
-remove_mars_dir
+remove_marssom_dir
