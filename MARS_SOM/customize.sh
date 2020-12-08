@@ -1,10 +1,9 @@
-#MARS
+# MARS
 
 MINAPI=29
 MAXAPI=29
 DYNLIB=true
 DEBUG=false
-SKIPUNZIP=0
 
 REPLACE="
 /system/app/Stk
@@ -25,7 +24,14 @@ REPLACE="
 /system/product/priv-app/StorageManager
 "
 
+# Permissions
 
 set_permissions() {
- set_perm_recursive  $MODPATH  0  0  0755  0644
+  : 
 }
+
+# MMT
+
+SKIPUNZIP=1
+unzip -qjo "$ZIPFILE" 'common/functions.sh' -d $TMPDIR >&2
+. $TMPDIR/functions.sh
