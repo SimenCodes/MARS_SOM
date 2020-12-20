@@ -1,6 +1,7 @@
+<h1 align="center">
 ![Cover](https://github.com/Miustone/MARS_SOM/blob/master/.github/mars.png)
 
-<h1 align="center">MARS_SOM README</h1>
+MARS_SOM README</h1>
 
 ## INSTRUCTIONS
 <a href="https://forum.xda-developers.com/sony-xperia-5-ii/how-to/guide-magisk-twrp-recovery-t4177209#post83732927">
