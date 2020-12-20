@@ -1,4 +1,4 @@
-![Cover](https://github.com/Miustone/MARS_SOM/blob/master/mars.png)
+![Cover](https://github.com/Miustone/MARS_SOM/blob/master/.github/mars.png)
 
 <h1 align="center">MARS_SOM README</h1>
 
